@@ -1,0 +1,4 @@
+# Motoko dependencies (https://mops.one/)
+
+[dependencies]
+rbac-motoko = "0.1.3"

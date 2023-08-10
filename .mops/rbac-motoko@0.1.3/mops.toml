@@ -1,0 +1,16 @@
+[package]
+name = "rbac-motoko"
+version = "0.1.3"
+description = "Role-Based Authentication Class - Motoko"
+repository = "https://github.com/fury02/rbac-motoko"
+keywords = [ "rbac", "rbac-motoko", "jwt"]
+
+# Motoko dependencies (https://mops.one/)
+
+[dependencies]
+base = "0.9.6"
+map = "8.1.0"
+time-consts = "1.0.1"
+fuzz = "0.1.0"
+certified-cache = "0.2.0"
+serde = "1.0.2"

@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7c99dbed-f683-4692-b06b-beb8ab06e467" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript JSX File" />
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2RY6NEWb7nhPZTH0HevcEzX90RW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;js.last.introduce.type&quot;: &quot;LET&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/vostok/Source/Github/rbac-motoko-web-admin&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/Users/vostok/Source/Github/rbac-motoko-web-admin/node_modules/typescript/lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="ReactDesignerToolWindowState">
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.haulmont.rcb.reactComponents" value="false" />
+        <entry key="com.haulmont.rcb.reactInspector" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/components/home_copy" />
+      <recent name="$PROJECT_DIR$/src/components/admin" />
+      <recent name="$PROJECT_DIR$/.dfx/ic/canisters" />
+      <recent name="$PROJECT_DIR$/src/components/login/auth" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/components/home" />
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7c99dbed-f683-4692-b06b-beb8ab06e467" name="Changes" comment="" />
+      <created>1687414626107</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1687414626107</updated>
+      <workItem from="1687414627132" duration="6339000" />
+      <workItem from="1687429093842" duration="4545000" />
+      <workItem from="1687433817287" duration="1763000" />
+      <workItem from="1687453361339" duration="4074000" />
+      <workItem from="1687528767828" duration="441000" />
+      <workItem from="1687530942610" duration="454000" />
+      <workItem from="1687531405787" duration="576000" />
+      <workItem from="1687541566456" duration="28000" />
+      <workItem from="1687541599226" duration="200000" />
+      <workItem from="1687587386481" duration="17629000" />
+      <workItem from="1687671998875" duration="4054000" />
+      <workItem from="1687708106117" duration="392000" />
+      <workItem from="1687780911576" duration="474000" />
+      <workItem from="1687781527930" duration="92000" />
+      <workItem from="1687864905467" duration="4505000" />
+      <workItem from="1688025972783" duration="336000" />
+      <workItem from="1688026314000" duration="2163000" />
+      <workItem from="1688049477564" duration="127000" />
+      <workItem from="1688105792405" duration="110000" />
+      <workItem from="1688105941768" duration="4354000" />
+      <workItem from="1688216396724" duration="89000" />
+      <workItem from="1689578700767" duration="3780000" />
+      <workItem from="1689585809874" duration="5305000" />
+      <workItem from="1689665224710" duration="5464000" />
+      <workItem from="1689671934523" duration="8513000" />
+      <workItem from="1689681939410" duration="5259000" />
+      <workItem from="1689747666127" duration="6965000" />
+      <workItem from="1690112372751" duration="713000" />
+      <workItem from="1690113789350" duration="70000" />
+      <workItem from="1690113867886" duration="180000" />
+      <workItem from="1690114057158" duration="4000" />
+      <workItem from="1690114069589" duration="234000" />
+      <workItem from="1690114599766" duration="752000" />
+      <workItem from="1690116080358" duration="17000" />
+      <workItem from="1690120162514" duration="747000" />
+      <workItem from="1690121243471" duration="615000" />
+      <workItem from="1690121866829" duration="92000" />
+      <workItem from="1690121977466" duration="53000" />
+      <workItem from="1690122035655" duration="1318000" />
+      <workItem from="1690173957269" duration="6301000" />
+      <workItem from="1690180594417" duration="2451000" />
+      <workItem from="1690183059305" duration="5921000" />
+      <workItem from="1690264100288" duration="21440000" />
+      <workItem from="1690351337327" duration="17415000" />
+      <workItem from="1690530017997" duration="9225000" />
+      <workItem from="1690539282817" duration="2402000" />
+      <workItem from="1690541759314" duration="12913000" />
+      <workItem from="1690569640252" duration="670000" />
+      <workItem from="1690609725775" duration="11546000" />
+      <workItem from="1690628829388" duration="5538000" />
+      <workItem from="1690702544766" duration="5922000" />
+      <workItem from="1690742302088" duration="597000" />
+      <workItem from="1690776794529" duration="6976000" />
+      <workItem from="1690790463371" duration="8615000" />
+      <workItem from="1690815977668" duration="1277000" />
+      <workItem from="1690982286529" duration="827000" />
+      <workItem from="1690983124039" duration="180000" />
+      <workItem from="1690994856914" duration="1698000" />
+      <workItem from="1691050743881" duration="1888000" />
+      <workItem from="1691227367789" duration="599000" />
+      <workItem from="1691324183902" duration="2299000" />
+      <workItem from="1691329926347" duration="214000" />
+      <workItem from="1691334947433" duration="274000" />
+      <workItem from="1691413512661" duration="697000" />
+      <workItem from="1691422952697" duration="2192000" />
+      <workItem from="1691476665768" duration="4426000" />
+      <workItem from="1691502775831" duration="446000" />
+      <workItem from="1691555729347" duration="130000" />
+      <workItem from="1691654947983" duration="3714000" />
+      <workItem from="1691661914276" duration="1147000" />
+      <workItem from="1691671234919" duration="1672000" />
+      <workItem from="1691673343122" duration="28000" />
+      <workItem from="1691673462786" duration="345000" />
+      <workItem from="1691674456999" duration="389000" />
+      <workItem from="1691675316016" duration="28000" />
+      <workItem from="1691678851631" duration="2772000" />
+      <workItem from="1691684545148" duration="319000" />
+      <workItem from="1691689872135" duration="657000" />
+      <workItem from="1691732610260" duration="133000" />
+      <workItem from="1691856479192" duration="815000" />
+      <workItem from="1691860195605" duration="190000" />
+      <workItem from="1691866526288" duration="69000" />
+      <workItem from="1691867932018" duration="1949000" />
+      <workItem from="1691873973013" duration="52000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>http://localhost:3000/declarations/rbac/index.js</url>
+          <line>26</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/vite.config.ts</url>
+          <line>5</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/vite.config.ts</url>
+          <line>6</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/components/admin/UserRolesComponent.tsx</url>
+          <line>61</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/components/admin/UserRolesComponent.tsx</url>
+          <line>48</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/components/admin/UserRolesComponent.tsx</url>
+          <line>45</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

@@ -1,0 +1,67 @@
+// Version: 1.0.0
+type Alg = {#NONE};
+type ArrayRelatedRP = [RelatedRP];
+type AuthClient = {participant : Participant; token : Token__1};
+type AuthClient__1 = AuthClient;
+type AuthClient__3 = AuthClient__1;
+type CountRef = Nat;
+type Entry<K, V> = (K, ?V, Nat32, [var Entry<K, V>]);
+type Header = {alg : Alg; typ : TypeToken};
+type JTI = Text;
+type List<T> = ?(T, List<T>);
+type ListRelatedRP = List<RelatedRP>;
+type ObjectRP =
+  {
+    count_ref : CountRef;
+    name : Text;
+    timestamp_change : Time;
+    variant_change : VariantChange
+  };
+type ObjectRP__1 = ObjectRP;
+type ObjectRP__2 = ObjectRP__1;
+type Participant = {#Admin; #User};
+type Payload =
+  {
+    arp : ArrayRelatedRP;
+    aud : Text;
+    exp : Int;
+    iat : Text;
+    iss : Text;
+    jti : JTI;
+    lrp : ?ListRelatedRP;
+    nbf : Text;
+    principal : Principal;
+    sub : Text
+  };
+type Permission = Text;
+type Permission__1 = Permission;
+type Permission__2 = Permission__1;
+type Permissions = [Permission];
+type Permissions__1 = Permissions;
+type Permissions__2 = Permissions__1;
+type RelatedRP = {permissions : Permissions; role : Role};
+type Role = Text;
+type Role__1 = Role;
+type Role__2 = Role__1;
+type Roles = [Role];
+type Roles__1 = Roles;
+type Roles__2 = Roles__1;
+type Time = Int;
+type Token__1 = {header : Header; payload : Payload};
+type TypeToken = {#JWT; #UJWT};
+type User = Principal;
+type User__1 = User;
+type User__2 = User__1;
+type VariantChange = {#Bind; #Created; #Unbind};
+actor {
+  stable var _acting_clients : (Entry<Principal, AuthClient__3>, [var Nat32]);
+  stable var _associated_role_permission :
+    (Entry<Role__2, Permissions__2>, [var Nat32]);
+  stable var _associated_user_role : (Entry<User__2, Roles__2>, [var Nat32]);
+  stable var _cert_entries_acting_clients :
+    [(Principal, (AuthClient__3, Nat))];
+  stable var _list_permissions :
+    (Entry<Permission__2, ObjectRP__2>, [var Nat32]);
+  stable var _list_roles : (Entry<Role__2, ObjectRP__2>, [var Nat32]);
+  stable var _list_users : (Entry<User__2, User__2>, [var Nat32])
+};
